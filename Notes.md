@@ -15,3 +15,7 @@ need to look a bit more into T2A - these are 'self-cleaving' peptides (see blog 
 microrheology article can be found [here](http://squishycell.uchicago.edu/papers/urheo_chapter.pdf)  
  rheology - [science of flow and deformation of matter; describes the interrelation between force, deformation and time](http://www.iq.usp.br/mralcant/About_Rheo.html)
  microrheology - ["looks at the thermal motion of small particles embedded in a material in order to extract the bulk rheological properties"](http://weitzlab.seas.harvard.edu/resources/techniques-and-tutorials/microrheology)
+
+02/01/17
+
+Can you bind two different structures to both ends of a fluorescent protein? i.e., can you bind peptide 1 to the N-terminus of GFP and peptide 2 to the C-terminus of GFP simultaneously and still have a viable/fluorescing fluorescent protein?
